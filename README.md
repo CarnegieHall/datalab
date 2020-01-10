@@ -17,3 +17,5 @@ The Carnegie Hall (CH) Data Lab is a learning space for the Archives to experime
 ## test pages
 
 [charts page](charts.md)
+
+[maps page](maps.md)
