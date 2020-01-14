@@ -3,6 +3,8 @@ a template for summarizing Data Lab experiments
 
 # OPTION 1: formatted text
 
+[visualization or representative image/icon]
+
 ## EXPERIMENT LABEL/TITLE
 disambiguated, human-understandable label for experiment
 
