@@ -6,16 +6,14 @@ Carnegie Hall (CH) Data Lab
 
 ## ABOUT
 
-The Carnegie Hall (CH) Data Lab is a learning space for the Archives to experiment with innovative information technologies, and to expand our understanding of data-driven strategies and tools in an archival context.
+The Data Lab is a learning space for Carnegie Hall to expand our understanding of information innovation through experiments with linked open data, semantic technologies, and data-driven strategies that leverage the resources of the Carnegie Hall Archives.   
 
-## WHAT WE AIM TO DO
+We strive to reinforce Carnegie Hall’s role as a leading cultural heritage institution by investigating new ways to engage and educate by sharing a wider range of resources and context about our past, present, and future. 
 
-- Explore and demonstrate the opportunities related to linked open data, semantic technologies, and their application to Carnegie Hall’s [performance history](http://data.carnegiehall.org/) and collection data
-- Use the flexibility of a lab structure to explore and prototype solutions in an explicitly experimental environment
-- Build skills internally and collaborate with external experts and communities
-
-## test pages
+## pages
 
 [charts page](charts.md)
 
 [maps page](maps.md)
+
+[lab report template](labreport.md)
