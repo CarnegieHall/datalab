@@ -36,6 +36,7 @@ disambiguated, human-understandable label for experiment
 where we looked for inspriration for this information assembly/template
 
 ## GLAM* Labs
+- Immersive Reality Lab for the Humanities - [irlhumanities.org](https://irlhumanities.org/)
 - Library of Congress (LOC) Labs - [labs.loc.gov](https://labs.loc.gov/)
 - metalab(at)harvard - [metalabharvard.github.io](https://metalabharvard.github.io/)
 - New York Public Library (NYPL labs) - [[site currently archived]](https://www.nypl.org/collections/labs)
