@@ -8,10 +8,6 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+The Data Lab is a learning space for Carnegie Hall to expand our understanding of information innovation through experiments with linked open data, semantic technologies, and data-driven strategies that leverage the resources of the Carnegie Hall Archives.
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
-
-Have a look at the Github page for more information.
-
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+We strive to reinforce Carnegie Hall’s role as a leading cultural heritage institution by investigating new ways to engage and educate by sharing a wider range of resources and context about our past, present, and future.
