@@ -8,7 +8,7 @@ a template for summarizing Data Lab experiments
 ## EXPERIMENT LABEL/TITLE
 disambiguated, human-understandable label for experiment
 
-## SUMMARY/OVERVIEW
+## TL;DR
 - briefly state purpose of experiment, what question is being answered
 - identify scope and result
 - written for general audience, e.g., can be used for social media caption
