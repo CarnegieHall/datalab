@@ -13,6 +13,8 @@ disambiguated, human-understandable label for experiment
 - identify scope and result
 - written for general audience, e.g., can be used for social media caption
 
+# -verbose
+
 ## METHODS
 - what we did to build the experiment
 - what tools, data, languages, or other resources were used
