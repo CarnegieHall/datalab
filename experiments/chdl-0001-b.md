@@ -1,4 +1,4 @@
-# chdl-0001
+# chdl-0001 -- alternate version
 
 ## Whose birthday is today?
 
@@ -12,4 +12,4 @@ Be patient! Takes a few seconds to load.
   </iframe>
 </figure>
 
-[Return to Experiments page]({{ '/experiments' | absolute_url }})
+[Return to first map]({{ '/experiments/chdl-0001-a' | absolute_url }})
