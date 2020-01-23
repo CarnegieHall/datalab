@@ -22,7 +22,7 @@ See which composers and performers from Carnegie Hall’s performance history we
 ## METHODS
 We created a SPARQL query using Wikidata’s query service. Since composer/performer identifiers from Carnegie Hall’s linked open dataset have their own official Wikidata property, Carnegie Hall Agent ID (P4104), which have been mapped to just over 14,000 Wikidata items, we can query Wikidata for birth locations of these people, binding today’s day and month for that part of each person’s birthdate:
 
-#defaultView:Map
+`#defaultView:Map
 SELECT ?person ?personLabel ?personImage ?birthPlaceLabel ?location (YEAR(?date) as ?year)
 (IRI(CONCAT("http://data.carnegiehall.org/names/",(STR(?chAgent_id)))) AS ?chLOD)
 WHERE
@@ -40,7 +40,8 @@ WHERE
 
 }
 ORDER BY ?year
-LIMIT 100
+LIMIT 100`
+
 We used the default map template available on Wikidata’s query service to create the map. You can view (and edit) the query by hovering your mouse over the far-right side of the map; from the pop-up menu that appears, click on “Edit SPARQL”.
 
 ## CONCLUSIONS
