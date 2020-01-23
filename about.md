@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: A few words about CH Data Lab
 permalink: /about.html
 ref: about
 order: 0
