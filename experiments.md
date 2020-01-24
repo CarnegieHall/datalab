@@ -25,8 +25,8 @@ Ideas, prompts, questions, and stories that will guide upcoming experiments.
 - TBD
 
 ## Data Related Initiatives
-- Carnegie Hall's [performance history as linked open data](http://data.carnegiehall.org/) (SPARQL endpoint)
-- Search, browse, and download Archives material in the Carnegie Hall [Digital Collections Preview](https://collections.carnegiehall.org/)
-- Carnegie Hall Digital Collections [Metadata Application Profile](https://carnegiehall.github.io/digitalcolls-metadataprofile/)
+- Carnegie Hall's <a href="https://www.carnegiehall.org/About/History/Performance-History-Search" target="_blank">performance history as linked open data</a> (SPARQL endpoint)
+- Search, browse, and download Archives material in the Carnegie Hall <a href="https://collections.carnegiehall.org/" target="_blank">Digital Collections Preview</a>
+- Carnegie Hall Digital Collections <a href="https://carnegiehall.github.io/digitalcolls-metadataprofile/" target="_blank">Metadata Application Profile</a>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
