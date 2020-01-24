@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: contact
 title: Contact
 tagline: Say hello!
 ref: contact
