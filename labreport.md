@@ -1,8 +1,6 @@
 # lab report
 a template for summarizing Data Lab experiments
 
-# OPTION 1: formatted text
-
 [visualization or representative image/icon]
 
 ## EXPERIMENT LABEL/TITLE
@@ -26,12 +24,6 @@ disambiguated, human-understandable label for experiment
 ### further investigation 
 - things we could not figure out/tool limitations
 - link to open GH Issues (if applicable)
-
-## 
-
-
-# OPTION 2: table
-[add option 1 as md table - tbd]
 
 
 # Resources
