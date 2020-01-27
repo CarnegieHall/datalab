@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experiments
-tagline: fun with data! yay!
+tagline: Completed and ongoing experiments and initiatives
 permalink: /experiments.html
 ref: experiments
 order: 2
