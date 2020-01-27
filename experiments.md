@@ -22,7 +22,7 @@ order: 2
 Ideas, prompts, questions, and stories that will guide upcoming experiments.
 
 - TBD
-- TBD
+- Check out the [Issue tracker](https://github.com/CarnegieHall/datalab/issues) and feel free to submit a suggestion!
 
 ## Data Related Initiatives
 - Carnegie Hall's <a href="https://www.carnegiehall.org/About/History/Performance-History-Search" target="_blank">performance history as linked open data</a> (SPARQL endpoint)
