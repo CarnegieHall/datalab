@@ -3,5 +3,5 @@ title: "Carnegie Hall Data Lab"
 description: "A learning space for Carnegie Hall to experiment with linked open data and semantic technologies."
 plugins:
   - jekyll-seo-tag
-url: "https://github.com/CarnegieHall/datalab"
+url: "https://carnegiehall.github.io/datalab/"
 lang: en-US
