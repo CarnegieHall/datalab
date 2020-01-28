@@ -17,11 +17,11 @@ order: 2
 
 [Comparison of the "Three Bs"](/experiments/chdl-0004.md){: .btn}
 
-## Planned Experiments
+## In the Works
 
 Ideas, prompts, questions, and stories that will guide upcoming experiments.
 
-- TBD
+- Finalizing details on collaborations. Check back soon!
 - Check out the <a href="https://github.com/CarnegieHall/datalab/issues" target="_blank">Issue tracker</a> and feel free to submit a suggestion!
 
 ## Data Related Initiatives
