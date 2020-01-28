@@ -21,7 +21,7 @@ Below each experiment is its own Lab Report, which includes an overview of what 
 
 ## 📧📫💬📋
 
-Want to share a cool idea or have a suggestion for our next experiment? Feel free to [contact](/contact) us! We will also be keeping an eye on [**#CHDataLab**](https://twitter.com/search/?q=%23CHDataLab) on Twitter.  
+Want to share a cool idea or have a suggestion for our next experiment? Feel free to [contact](/contact.md) us! We will also be keeping an eye on [**#CHDataLab**](https://twitter.com/search/?q=%23CHDataLab) on Twitter.  
 
 
 
