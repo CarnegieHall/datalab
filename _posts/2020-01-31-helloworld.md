@@ -17,7 +17,7 @@ Watch this space for updates about our experiments, posts about creating and tak
 
 ## Where to start exploring?  
 
-Check out the [Experiments]({{ '/experiments' | absolute_url }}) page. We are starting with 4 experiments that use Carnegie Hall’s performance history (as linked open data) and built-in tools from [Wikidata’s query service](https://query.wikidata.org/) to produce visualizations.  
+Check out the [Experiments]({{ '/experiments' | absolute_url }}) page. We are starting with 4 experiments that use Carnegie Hall’s performance history (as linked open data) and built-in tools from <a href="https://query.wikidata.org/" target="_blank">Wikidata’s query service</a> to produce visualizations.  
 
 Below each experiment is its own **Lab Report**, which includes an overview of what we made, details about the why and how, and what direction our curiosity, research, and testing will go as a result of the experiment. A draft template of a Lab Report is [here](https://carnegiehall.github.io/datalab/labreport.html), along with a list of GLAM* labs and resources we reviewed for inspiration for the site and the Lab Report contents. 
 
