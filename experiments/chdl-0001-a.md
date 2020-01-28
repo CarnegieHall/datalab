@@ -2,7 +2,7 @@
 
 ## Whose birthday is today?
 
-A birthplace map of performers and composers from Carnegie Hall's performance history. 
+A birthplace map of performers and composers from Carnegie Hall's performance history.</br> 
 
 Click the 🔴red map markers to see whose birthday is today! 
 
