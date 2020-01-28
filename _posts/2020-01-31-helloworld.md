@@ -3,10 +3,6 @@ layout: post
 title: "Hello, World!"
 ---
 
-# Hello, World! 
-
- 
-
 ## A little about us 
 
 Carnegie Hall Data Labs launches today, January 31st, 2020! The Data Lab is a learning space to expand our understanding of information innovation through experiments with linked open data, semantic technologies, and data-driven strategies that leverage the resources of the Carnegie Hall Archives. 
