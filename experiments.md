@@ -25,7 +25,7 @@ Ideas, prompts, questions, and stories that will guide upcoming experiments.
 - Check out the <a href="https://github.com/CarnegieHall/datalab/issues" target="_blank">Issue tracker</a> and feel free to submit a suggestion!
 
 ## Data Related Initiatives
-- Carnegie Hall's <a href="https://www.carnegiehall.org/About/History/Performance-History-Search" target="_blank">performance history as linked open data</a> (SPARQL endpoint)
+- Carnegie Hall's <a href="http://data.carnegiehall.org/" target="_blank">performance history as linked open data</a> (SPARQL endpoint)
 - Search, browse, and download Archives material in the Carnegie Hall <a href="https://collections.carnegiehall.org/" target="_blank">Digital Collections Preview</a>
 - Carnegie Hall Digital Collections <a href="https://carnegiehall.github.io/digitalcolls-metadataprofile/" target="_blank">Metadata Application Profile</a>
 
