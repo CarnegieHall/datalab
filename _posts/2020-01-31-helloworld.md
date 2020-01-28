@@ -9,7 +9,7 @@ title: "Hello, World!"
 
 The Data Lab is a learning space to expand our understanding of information innovation through experiments with linked open data, semantic technologies, and data-driven strategies that leverage the resources of the Carnegie Hall Archives. 
 
-A primary goal of our Data Lab is to use Carnegie Hall’s rich historical legacy as a lens through which to tell untold stories and examine hidden connections within the world of music and other domains. The flexibility of a lab structure allows us to try out approaches and solutions in a "R&D" environment. 
+A primary goal of our Data Lab is to use Carnegie Hall’s rich historical legacy as a lens through which to share untold stories and examine hidden connections within the world of music and other domains. The flexibility of a lab structure allows us to try out approaches and solutions in a "R&D" environment. 
 
 Our investigations began in the work leading up to the 2017 release of Carnegie Hall’s [performance history as linked open data](http://data.carnegiehall.org/) and we are grateful and excited for the opportunity to continue experimenting. We hope to showcase what a relatively small staff, with rudimentary developer skills and limited technical support, can accomplish through our lightweight and exploratory linked open data initiative.  
 
