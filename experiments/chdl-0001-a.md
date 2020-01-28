@@ -17,7 +17,10 @@ A birthplace map of performers and composers from Carnegie Hall's performance hi
 Map: Whose birthday is today?
 
 ## TL;DR
-See which composers and performers from Carnegie Hall’s performance history were born on this day by plotting them on a map. The scope is limited to those people for whom we have birthdate and birthplace information.
+See which composers and performers from Carnegie Hall’s performance history were born on this day by plotting them on a map.
+
+## -verbose
+The scope is limited to those people for whom we have birthdate and birthplace information.
 
 ## METHODS
 We created a SPARQL query using Wikidata’s query service. Since composer/performer identifiers from Carnegie Hall’s linked open dataset have their own official Wikidata property, Carnegie Hall Agent ID (P4104), which have been mapped to just over 14,000 Wikidata items, we can query Wikidata for birth locations of these people, binding today’s day and month for that part of each person’s birthdate:
