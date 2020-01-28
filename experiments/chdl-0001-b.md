@@ -4,7 +4,7 @@
 
 A birthplace map of performers and composers from Carnegie Hall's performance history. 
 
-Be patient! Takes several seconds to load.
+Be patient! Takes awhile to load.
 
 <figure class="map_container">
   <iframe 
