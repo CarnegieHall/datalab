@@ -17,13 +17,12 @@ order: 2
 
 [Comparison of the "Three Bs"](/experiments/chdl-0004.md){: .btn}
 
-[Grammy Award Winners at CH](/experiments/chdl-0005.md){: .btn}
-
 ## In the Works
 
 Ideas, prompts, questions, and stories that will guide upcoming experiments.
 
 - Finalizing details on collaborations. Check back soon!
+- Experiments inspired and informed by Carnegie Hall's *[Voices of Hope: Artists in Times of Oppression](https://www.carnegiehall.org/Events/Season-Highlights/Voices-of-Hope)* festival (March - May 2021)
 - Check out the <a href="https://github.com/CarnegieHall/datalab/issues" target="_blank">Issue tracker</a> and feel free to submit a suggestion!
 
 ## Data Related Initiatives
