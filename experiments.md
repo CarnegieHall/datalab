@@ -17,6 +17,8 @@ order: 2
 
 [Comparison of the "Three Bs"](/experiments/chdl-0004.md){: .btn}
 
+[Grammy Award Winners at CH](/experiments/chdl-0004.md){: .btn}
+
 ## In the Works
 
 Ideas, prompts, questions, and stories that will guide upcoming experiments.
