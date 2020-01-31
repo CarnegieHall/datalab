@@ -15,7 +15,7 @@ Watch this space for updates about our experiments, posts about creating and tak
 
 ## Where to start exploring?  
 
-Check out the [Experiments]({{ '/experiments' | absolute_url }}) page. We are starting with 5 experiments that use Carnegie Hall’s performance history (as linked open data) and built-in tools from <a href="https://query.wikidata.org/" target="_blank">Wikidata’s query service</a> to produce visualizations. 
+Check out the [Experiments]({{ '/experiments' | absolute_url }}) page. We are starting with 5 experiments that use Carnegie Hall’s performance history (as linked open data) and built-in tools from <a href="https://query.wikidata.org/" target="_blank">Wikidata’s query service</a> and <a href="https://developers.google.com/chart" target="_blank">Google Charts</a> to produce visualizations. 
 
 Each experiment is labeled with a control number, **chdl-####**. This numbers appears at the top of each experiment's page. 
 
