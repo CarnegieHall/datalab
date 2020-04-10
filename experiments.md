@@ -19,6 +19,9 @@ order: 2
 
 [Grammy Award Winners at CH](/experiments/chdl-0005.md){: .btn}
 
+[Non-Classical Music Events at CH, by Genre](/experiments/chdl-0006.md){: .btn}
+
+
 ## In the Works
 
 Ideas, prompts, questions, and stories that will guide upcoming experiments.
