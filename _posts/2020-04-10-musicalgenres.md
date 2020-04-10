@@ -4,7 +4,7 @@ title: "Musical Genres: Use, Questions, and Challenges"
 ---
 
 
-Recently we looked at genre and how it is used and applied to Carnegie Hall's performance history data. With data visualizations in mind, Rob Hudson (Manager, Archives) created a [genre chart](/experiments/chdl-0006.md) to show non-classical music genre labels and percentage counts, relative to the number of performance history events that have a genre assigned to them. 
+Recently we looked at genre and how it is used and applied to Carnegie Hall's performance history data. With data visualizations in mind, Rob Hudson (Manager, Archives) created a <a href="https://carnegiehall.github.io/datalab/experiments/chdl-0006.html" target="_blank">genre chart</a> to show non-classical music genre labels and percentage counts, relative to the number of performance history events that have a genre assigned to them. 
 
 With this chart and explanation, we hope to be transparent about the angle from which we are approaching genres in the Carnegie Hall Archives and the way we will approach future genre classification. While we’re looking at our current data critically, we’re also deciding how to improve our current classification process and how to move the genre conversation forward both from within and outside of our organization.
 
