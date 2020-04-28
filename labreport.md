@@ -27,7 +27,7 @@ disambiguated, human-understandable label for experiment
 
 
 # Resources
-where we looked for inspriration for this information assembly/template
+where we looked for inspiration for this information assembly/template
 
 ## GLAM* Labs
 - Immersive Reality Lab for the Humanities - [irlhumanities.org](https://irlhumanities.org/)
