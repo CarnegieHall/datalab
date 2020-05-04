@@ -9,12 +9,9 @@ order: 2
 
 ## Recent Experiments
 
-| [Whose Birthday is Today?](/experiments/chdl-0001-a.md){: .btn} | [Beethoven Through the Years](/experiments/chdl-0002.md){: .btn}
-
+[Whose Birthday is Today?](/experiments/chdl-0001-a.md){: .btn} | [Beethoven Through the Years](/experiments/chdl-0002.md){: .btn}
 [Comparison of Haydn, Mozart, and Beethoven](/experiments/chdl-0003.md){: .btn} | [Comparison of the "Three Bs"](/experiments/chdl-0004.md){: .btn} 
-
 [Grammy Award Winners at CH](/experiments/chdl-0005.md){: .btn} | [Non-Classical Music Events at CH, by Genre](/experiments/chdl-0006.md){: .btn}
-
 [May 5, 1891 Across America](/experiments/chdl-0008.md){: .btn} |
 
 
