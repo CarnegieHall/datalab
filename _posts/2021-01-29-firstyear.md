@@ -2,7 +2,7 @@
 layout: post
 title: "Carnegie Hall Data Lab: First Year in Review "
 ---
-The Carnegie Hall Data Lab launched one year ago, on January 31, 2020.
+The Carnegie Hall Data Lab launched one year ago, on <a href="https://carnegiehall.github.io/datalab/2020/01/31/helloworld.html" target="_blank">January 31, 2020</a>.
 
 After forming an official Data Lab team of three archivists from the Carnegie Hall Susan W. Rose Archives, we made our GitHub Pages site live and published four experiments for public access and use. We gave the site its public debut at the <a href="https://carnegiehall.github.io/datalab/2020/02/21/lodlam2020recap.html" target="_blank">LODLAM Summit at the Getty Center in Los Angeles</a> during the first week of February and began reaching out to other information professionals to promote the site and encourage potential data partnerships and collaborative projects. We started off 2020 with a lot of momentum and grand expectations for the year to come.  
 
