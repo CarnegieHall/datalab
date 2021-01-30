@@ -34,7 +34,7 @@ The Data Lab site is also ready to be improved. GitHub Pages' simple markdown st
 
 We continue to chug along with data creation and Wikidata editing, and have aligned  several thousand additional Wikidata items to Carnegie Hall agent and work IDs. This continues to improve the experiment outputs in terms of completeness and accuracy, giving us tangible benefits throughout the data management cycle. 
 
-Ahead for Carnegie Hall is its *<a href="https://www.carnegiehall.org/Events/Highlights/Voices-of-Hope" target="_blank">Voices of Hope: Artists in Times of Oppression festival</a>*, "an exploration of humankind’s capacity for hope, courage, and resistance in the face of unimaginable injustice". We look forward to creating an experiment or post inspired by this festival, specifically exploring our role as information stewards and ways technology and data can be used to proactively address archival silences. 
+Ahead for Carnegie Hall is its *<a href="https://www.carnegiehall.org/Events/Highlights/Voices-of-Hope" target="_blank">Voices of Hope: Artists in Times of Oppression</a>* festival, "an exploration of humankind’s capacity for hope, courage, and resistance in the face of unimaginable injustice". We look forward to creating an experiment or post inspired by this festival, specifically exploring our role as information stewards and ways technology and data can be used to proactively address archival silences. 
 
 ## Working Together 
 
