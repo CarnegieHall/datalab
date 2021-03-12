@@ -15,7 +15,7 @@ order: 2
 
 [Grammy Award Winners at CH](/experiments/chdl-0005.md){: .btn} | [Non-Classical Music Events at CH, by Genre](/experiments/chdl-0006.md){: .btn}
 
-[May 5, 1891 Across America](/experiments/chdl-0008.md){: .btn} | [Top 25 Works at CH](/experiments/chdl-0009.md){: .btn} |  [The Leschetizky Effect](/experiments/chdl-0010.md){: .btn} |
+[May 5, 1891 Across America](/experiments/chdl-0008.md){: .btn} | [Top 25 Works at CH](/experiments/chdl-0009.md){: .btn} |  [The Leschetizky Effect](/experiments/chdl-0010.md){: .btn} | [CH’s Rock Explosion of 1971-72](/experiments/chdl-0011.md){: .btn}
 
 
 ## In the Works
