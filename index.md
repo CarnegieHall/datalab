@@ -8,4 +8,6 @@
 layout: home
 ---
 
-Read [about](/about.md) the Carnegie Hall Data Lab and check our our [experiments](experiments.md).
+**Please visit our new <a href="http://data.carnegiehall.org/datalab/">Carnegie Hall Data Lab</a> site!**
+
+*This GitHub Pages site will be discontinued in August, 2021.*
