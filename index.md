@@ -8,6 +8,7 @@
 layout: home
 ---
 
-**Please visit our new <a href="http://data.carnegiehall.org/datalab/">Carnegie Hall Data Lab</a> site!**
+# Please visit our new <a href="http://data.carnegiehall.org/datalab/">Carnegie Hall Data Lab</a> site!
+## You will be redirected to the new site in 10 seconds.
 
-*This GitHub Pages site will be discontinued in August, 2021.*
+## *This GitHub Pages site will be discontinued in August, 2021.*
